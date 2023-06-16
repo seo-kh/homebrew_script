@@ -13,7 +13,6 @@ git config --global core.quotepath false
 brew install --cask sf-symbols
 brew install vapor 
 
-
 # android App Development
 brew install --cask android-studio
 
@@ -34,6 +33,9 @@ brew install --cask notion
 brew install --cask github
 brew install --cask visual-studio-code
 brew install --cask postman
+brew install --cask unity
+brew install --cask blender
+brew install --cask dataspell
 
 # Utils
 brew install --cask spectacle
