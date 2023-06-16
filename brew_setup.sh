@@ -4,7 +4,7 @@
 # Git
 brew install git 
 brew install git-lfs
-git config --global user.name "seo-kh
+git config --global user.name "seo-kh"
 git config --global user.email "gospelseokh@gmail.com"
 git config --global core.precomposeunicode true
 git config --global core.quotepath false
